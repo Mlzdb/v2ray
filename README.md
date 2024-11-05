@@ -1,8 +1,8 @@
 # 介绍
-https://raw.githubusercontent.com/Mlzdb/v2ray/master/v2ray.sh
+
 ''
 
-bash <(wget -qO- -o- https://raw.githubusercontent.com/Mlzdb/v2ray/master/v2ray.sh)
+bash <(wget -qO- -o- https://raw.githubusercontent.com/Mlzdb/v2ray/master/install.sh)
 
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
