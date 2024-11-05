@@ -1,5 +1,9 @@
 # 介绍
 
+'https://raw.githubusercontent.com/Mlzdb/v2ray/master/v2ray.sh'
+
+
+
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
 # 特点
